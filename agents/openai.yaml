@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Recovery Watchdog"
+  short_description: "Diagnose and recover stalled coding agents"
+  default_prompt: "Use $agent-recovery-watchdog to diagnose a stalled coding agent and recommend the next recovery action."
