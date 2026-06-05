@@ -25,7 +25,7 @@ I made a tiny Codex skill that forces the agent to classify the stall before ret
 
 It is intentionally just a SKILL.md workflow, not a product or agent command center.
 
-Repo: <link>
+Repo: https://github.com/danfye/agent-recovery-watchdog
 
 I am looking for real failure cases that this does not classify well yet.
 ```
@@ -57,7 +57,7 @@ Evidence: command/file operation requires a permission state change
 Next action: report approval mode, sandbox mode, workspace, and exact blocked operation before retrying
 Risk: retrying blindly loops without changing anything
 
-Repo: <link>
+Repo: https://github.com/danfye/agent-recovery-watchdog
 
 I would like feedback from people who have real stuck-agent cases. The most useful comments are cases this classification misses.
 ```
